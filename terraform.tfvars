@@ -1,0 +1,8 @@
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block = "10.0.10.0/24"
+avail_zone = "ap-south-1a"
+env_prefix = "dev"
+instance_type = "t2.micro"
+image_name = "amzn2-ami-hvm-*-x86_64-gp2"
+my_ip = "202.66.38.130/32"
+public_key_location = "/Users/dingyi.tian/.ssh/id_rsa.pub"
